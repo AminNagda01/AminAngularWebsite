@@ -1,3 +1,7 @@
 AminAngularWebsite
 
-My attempt at making a webiste, will update read me with updates to the project 
+I just learned angular is being depreciated 
+
+no longer working on this 
+
+rip 
